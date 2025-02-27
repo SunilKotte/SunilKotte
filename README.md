@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer with over 4 years of expertise in building highly scalable systems for healthcare, blockchain, and clinical trial applications. I have a proven track record of delivering 25–35% performance gains in backend systems, APIs, and UIs using Node.js, React.js, and AWS. I am passionate about optimizing microservices and clinical data integration.
+I'm a Full Stack Developer with over 4 years of experience in building scalable, high-performance backend and frontend systems using Node.js, React.js, and AWS. I have a proven track record of optimizing microservices, reducing server latency, and improving system efficiency by 25–35% while ensuring 99.8% uptime with CI/CD pipelines. I am skilled in secure authentication (JWT, OAuth, multi-factor), regulatory compliance (HIPAA, GDPR, 98%), and cloud-native application deployment. Passionate about architecting scalable APIs, automating DevOps workflows, and driving Agile development with cross-functional teams.
 
 - 🔭 I’m currently working at One Community Inc. as a Software Engineer.
 - 🌱 I’m continuously learning advanced web development and cloud technologies.
@@ -15,13 +15,14 @@ I'm a Full-Stack Developer with over 4 years of expertise in building highly sca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new places and cultures.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Expertise
 
 - **Languages:** JavaScript, TypeScript, Python, Golang, SQL
 - **Frameworks:** React.js, Next.js, Node.js, Express.js, Web3.js
 - **Cloud/DevOps:** AWS (Lambda, EC2, S3), Docker, Jenkins, GitHub
 - **Databases:** MongoDB, MySQL, CouchDB, NoSQL
 - **Tools:** JIRA, Postman, Truffle, Mocha/Chai, Hyperledger Fabric
+- **Expertise:** Conducting Backend Optimization & Scalability, Clinical Trial Data Systems, Microservices & Event-Driven Architecture, CI/CD & DevOps Automation
 
 ## 📊 GitHub Stats
 
@@ -32,21 +33,21 @@ I'm a Full-Stack Developer with over 4 years of expertise in building highly sca
 
 ### SOFTWARE ENGINEER | One Community Inc. | SAN GABRIEL, CA
 **Feb 2025 – present**
-- Built the Highest Good Network App using React.js/Node.js, improving UI load times by 30% for 10k+ users.
+- Architected and optimized Highest Good Network App using React.js & Node.js, achieving a 30% faster UI load time for 10K+ active users.
 - Collaborated with 100+ developers via Agile workflows, reducing production bugs by 25%.
 - Implemented CI/CD pipelines and security protocols for 99.8% uptime.
 
 ### SOFTWARE DEVELOPMENT ENGINEER | Clario, Channelsoft It Services Pvt Ltd | Vijayawada, India
 **Jul 2022 – Aug 2023**
-- Developed and deployed clinical trial study applications, integrating device data with backend databases for real-time analytics.
-- Contributed to the full SDLC including project specifications, deployment scheduling, and peer code reviews for low/moderate complexity tasks.
+- Engineered and deployed real-time clinical trial platforms, integrating device telemetry data into scalable backend architectures for real-time analytics, enhancing data processing by 40%.
+- Contributed to full SDLC including project specifications, deployment scheduling, and peer code reviews for low/moderate complexity tasks.
 - Wrote clean, compliant code following best practices for clinical data systems, ensuring alignment with study requirements.
 - Communicated technical assumptions, timelines, and risks to stakeholders to minimize rework.
 
 ### FULL STACK DEVELOPER | Cluster It Solutions Pvt. Ltd. | Khammam, India
 **Dec 2020 – Jul 2022**
 - **CVS Healthcare Project:**
-  - Built HIPAA-compliant system with React.js/Node.js, reducing server latency by 20%.
+  - Developed a HIPAA-compliant healthcare platform with React.js & Node.js, optimizing API response times by 20% and ensuring secure patient data handling.
   - Integrated Hyperledger Fabric, improving secure data-sharing performance by 35%.
 - **Crypto Tracking (Infotrend):**
   - Connected Bitcoin/Ethereum nodes via Node.js, improving data accuracy by 95%.
@@ -54,12 +55,12 @@ I'm a Full-Stack Developer with over 4 years of expertise in building highly sca
 
 ## 🎓 Education
 
-### MASTER’S DEGREE | Management Information Systems | University of Illinois at Springfield
-**2023 – 2024**
+### MASTER OF SCIENCE (M.S.), MANAGEMENT INFORMATION SYSTEMS | UNIVERSITY OF ILLINOIS SPRINGFIELD
+**2023 – 2024** (Graduated Dec 2024)
 
 ## 🔑 Key ATS Keywords
 
-Distributed Systems | Scalability | Node.js | AWS | Microservices | CI/CD | REST APIs | Blockchain | Clinical Data Systems | Compliance | React.js | Docker | Agile
+Distributed Systems | Scalability | Node.js | AWS | Microservices | CI/CD | REST APIs | Blockchain | Clinical Data Systems | Compliance | React.js | Docker | Agile | OAuth / JWT Authentication | GraphQL | Kafka / RabbitMQ | Serverless Architectures | Event-Driven Architecture | TypeScript Best Practices
 
 ## 🌐 Connect with Me
 
