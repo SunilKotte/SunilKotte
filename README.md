@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SunilKotte?label=Follow&style=social)](https://github.com/SunilKotte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunil-kotte/)
 
-## 🚀 About Me
+## 🤔 About Me
 
 I'm a Full Stack Developer with over 4 years of experience in building scalable, high-performance backend and frontend systems using Node.js, React.js, and AWS. I have a proven track record of optimizing microservices, reducing server latency, and improving system efficiency by 25–35% while ensuring 99.8% uptime with CI/CD pipelines. I am skilled in secure authentication (JWT, OAuth, multi-factor), regulatory compliance (HIPAA, GDPR, 98%), and cloud-native application deployment. Passionate about architecting scalable APIs, automating DevOps workflows, and driving Agile development with cross-functional teams.
 
