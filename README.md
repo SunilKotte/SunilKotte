@@ -32,7 +32,7 @@ I'm a Full Stack Developer with over 4 years of experience in building scalable,
 ## 🏢 Professional Experience
 
 ### SOFTWARE ENGINEER | One Community Inc. | SAN GABRIEL, CA
-**Feb 2025 – present**
+**Feb 2025 – May 2025**
 - Architected and optimized Highest Good Network App using React.js & Node.js, achieving a 30% faster UI load time for 10K+ active users.
 - Collaborated with 100+ developers via Agile workflows, reducing production bugs by 25%.
 - Implemented CI/CD pipelines and security protocols for 99.8% uptime.
